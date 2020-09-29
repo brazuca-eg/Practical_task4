@@ -1,0 +1,6 @@
+Create a class that implements interface java.lang.Iterable<String>. dfddfdgdfgfdThe 
+class should parse the text file and return sentences The method 'iterator' of the 
+given class should return the iterator object - an instance of the inner class. The
+ method Iterator#remove should throw an exception UnsupportedOperationException.
+You are not allowed to use the existing implementations of the iterators from the 
+container classes!fgdgdfgdfgfdg
